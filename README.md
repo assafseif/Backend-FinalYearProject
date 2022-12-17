@@ -32,9 +32,10 @@ The tools and libraries used to complete the project are the following:
 
 2-You must have [nodeJS](https://nodejs.org/en/download/) installed.
 
-3-Use the following to start serve (YOU are not required to install packages here !)
 
-4- On the **.env** file be sure to put your own email and credentials because using this email node will send the ip verification, email verification ,reset password ...
+3- On the **.env** file be sure to put your own email and credentials because using this email node will send the ip verification, email verification ,reset password ...
+
+4-Use the following to start serve (YOU are not required to install packages here !)
 
 ```bash
 npm start
